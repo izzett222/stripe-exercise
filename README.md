@@ -1,1 +1,1 @@
-# stripe-exercise
+# stripe clone
